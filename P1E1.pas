@@ -12,3 +12,4 @@ begin
 	readln (n2);
 	writeln ( 'Los numeros leidos de manera inversa fueron: ', n2 ,' y ' ,n1 );
 end.
+{GaelCanoDev}
